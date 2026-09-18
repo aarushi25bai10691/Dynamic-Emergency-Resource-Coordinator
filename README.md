@@ -2,7 +2,7 @@
 
 # CrisisRelief: Emergency Resource Coordinator 🚨
 
-### Submitted by: [Aarushi Chauhan] | [25BAI10691]
+### Submitted by: Aarushi Chauhan | 25BAI10691
 
 ## 📖 Project Overview
 
